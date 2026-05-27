@@ -45,58 +45,6 @@ Sqlclass/
 
 ---
 
-#  Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Ankitbisht818/Sqlclass.git
-```
-
-Move into the project folder:
-
-```bash
-cd Sqlclass
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
----
-
-# Run the Project
-
-Start the server:
-
-```bash
-node app.js
-```
-
-Server will run on:
-
-```bash
-http://localhost:8080
-```
-
----
-
-# Database Setup
-
-Create a MySQL database named:
-
-```sql
-CREATE DATABASE delta_app;
-```
-
-Create a table named `user` with required fields.
-
-Update your MySQL credentials inside `app.js` before running the project.
-
----
-
 #  What I Learned
 
 While building this project, I learned:
